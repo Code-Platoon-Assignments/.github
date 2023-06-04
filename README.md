@@ -1,3 +1,3 @@
-# Code Platoon Assignments
+# README
 
-This github organization holds our Github Classroom and assignment repos for the assignments that go along with [our curriculum](https://github.com/Code-Platoon-Curriculum/curriculum).
+Github repo to hold the README for the github org.
